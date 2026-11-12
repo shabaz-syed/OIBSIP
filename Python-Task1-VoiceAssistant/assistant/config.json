@@ -1,0 +1,14 @@
+{
+  "custom_commands": {
+    "open youtube": "open:https://www.youtube.com",
+    "open github": "open:https://github.com",
+    "who made you": "say:I was built by Shabaz as part of the Oasis Infobyte Python internship."
+  },
+  "contacts": {
+    "test account": "your.test.account@gmail.com"
+  },
+  "knowledge_base": {
+    "what is oasis infobyte": "Oasis Infobyte is a company that runs internship programs across tech domains.",
+    "what can you do": "I can tell the time and date, search the web, send emails, set reminders, check weather, and answer questions."
+  }
+}
